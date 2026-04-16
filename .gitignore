@@ -1,0 +1,9 @@
+# Log file generated at runtime
+VMware-NoSleep.log
+
+# Windows thumbnail cache
+Thumbs.db
+Desktop.ini
+
+# PowerShell temp files
+*.ps1xml
